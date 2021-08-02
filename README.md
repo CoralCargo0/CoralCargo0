@@ -7,7 +7,7 @@ Skills: C/Kotlin/Android/SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoralCargo0)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoralCargo0&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoralCargo0&show_icons=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/CoralCargo0)  
 
